@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlarmAppDemo</string>
+    <string name="alarm_channel_name">DEMO_ALARM_CHANNEL_NAME</string>
+    <string name="nofif_channel_name">DEMO_NOTIF_CHANNEL_NAME</string>
+    <string name="alarm_channel_desc">DEMO_ALARM_CHANNEL_DESCRIPTION</string>
+    <string name="notif_channel_desc">DEMO_NOTIF_CHANNEL_DESCRIPTION</string>
+</resources>
